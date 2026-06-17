@@ -1,4 +1,4 @@
-# Day 1 Assignment
+# Day 2 Assignment
 *Name*: Prachi
 *Roll No*: 25EARAD112
 *Branch*:- AIDS 
